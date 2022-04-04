@@ -8,35 +8,38 @@
 
 .container{
     position: absolute;
-    top: 80px;
-    left: 350px;
-    bottom: 50;
+    top: 30%;
+    left: 420px;
+    bottom: 20%;
     
     
 }
-.border{
+/* .border{
     margin-top: 2%;
     background-color: rgb(255, 0, 242);
     max-width: 90%;
     padding:60px; 
-}
+} */
 .outline{
-    background-color: rgb(60, 255, 0);
+    background-color: #123f04;
     border: 2px solid #fff;
-    padding: 50px ;
+    padding: 40px ;
 }
 .margin{
-    background-color: blue;
+    background-color: #6e6ec4;
     border: 2px solid #fff;
-    padding: 40px;
+    padding: 30px;
 }
 .padding{
     text-align: center;
-    background-color: brown;
+    background-color: #8b3e3e;
     border: 2px solid #fff;
     padding: 20px;
     /* width: 30%; */
     
+}
+p{
+    padding: 20px;
 }
 
 
